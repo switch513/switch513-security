@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="switch513-security:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="switch-security.war">
+      <element id="artifact" artifact-name="switch513-security:war exploded" />
+    </root>
+  </artifact>
+</component>
